@@ -1,4 +1,4 @@
-## Olá sou Wesley, estudante de desenvolvimento de sistemas e furuto programador!
+## Olá, sou Wesley, estudante de desenvolvimento de sistemas e futuro programador!
 <div align="center">
   <a href="https://github.com/Wesley-Ric">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Ric&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
